@@ -1,5 +1,4 @@
-//Reg. No:-1941012187
-//Class :-CSE 'C'
+
 import java.util.*;
 public class EncryptByPin {
 
